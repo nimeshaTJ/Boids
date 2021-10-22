@@ -16,3 +16,5 @@ $ pip install -r requirements.txt
 08/Sep/2021 - Initial implementation of Boids rules
 
 12/Sep/2021 - Added fish sprites, improved pathfinding near walls, option to follow mouse pointer
+
+23/Oct/2021 - Obstacle avoidance
