@@ -18,3 +18,5 @@ $ pip install -r requirements.txt
 12/Sep/2021 - Added fish sprites, improved pathfinding near walls, option to follow mouse pointer
 
 23/Oct/2021 - Obstacle avoidance
+
+07/Nov/2021 - Checks for barriers between fish (slower)
