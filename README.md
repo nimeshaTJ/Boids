@@ -19,4 +19,4 @@ $ pip install -r requirements.txt
 
 23/Oct/2021 - Obstacle avoidance
 
-07/Nov/2021 - Checks for barriers between fish (slower)
+07/Nov/2021 - Checks for barriers between boids(slower)
